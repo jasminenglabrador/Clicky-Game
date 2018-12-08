@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Press Start 2P', cursive;
+}
+
+html,
+body,
+#root,
+#root > div {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
